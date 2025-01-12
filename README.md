@@ -19,6 +19,6 @@ Juste moi, un débutant dans le milieu du développement
 
 ## Statistiques📊
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sylexytb&show_icons=true&count_private=true&theme=catppuccin_latte" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeytails&show_icons=true&count_private=true&theme=catppuccin_latte" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylexytb&layout=compact&count_private=true&theme=catppuccin_latte" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeytails&layout=compact&count_private=true&theme=catppuccin_latte" />
