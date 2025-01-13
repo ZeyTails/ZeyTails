@@ -1,5 +1,5 @@
 ## Coucou 👋
-![]([https://raw.githubusercontent.com/Zeytails/zeytails/refs/heads/main/mon%20header.png](https://raw.githubusercontent.com/ZeyTails/ZeyTails/refs/heads/main/mon%20header.png))
+![]([https://raw.githubusercontent.com/ZeyTails/ZeyTails/refs/heads/main/mon%20header.png])
 
 ## Info 📃
 Juste moi, un débutant dans le milieu du développement
